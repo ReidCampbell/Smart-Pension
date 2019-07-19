@@ -35,10 +35,3 @@ Finally, have some fun – Feel free to make changes or design something if you 
 ```
 $ ruby ./parselogfile.rb webserver.log
 ```
-
-## Testing
-
-```
-$ rspec spec/lib/parselogfile_spec.rb
-```
-# Smart-Pension
